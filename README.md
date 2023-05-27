@@ -1,10 +1,10 @@
 # Análisis del paper ClipCap
 
-- [ ] Send proposal 
+- [x] Send proposal 
 
 - Video 
 
-    - [ ] 15-minute presentation 
+    - [x] 15-minute presentation 
 
         - Dominio del tema
 
@@ -24,16 +24,16 @@
 
         - Conclusiones
 
-    - [ ] 10-minute demo
+    - [x] 10-minute demo
 
 - [ ] Comments 
 
 - Slides 
 
-    - [ ] Editable slides
+    - [x] Editable slides
 
-    - [ ] PDF slides
+    - [x] PDF slides
 
-- [ ] Code
+- [x] Code
 
 
