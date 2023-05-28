@@ -1,0 +1,19 @@
+Sara Carolina Gómez Delgado
+Basado en la excelente presentación, me pude percatar de que el paper en cuestión es un trabajo que viene a hacer una diferencia en el estado del arte; considero que las aplicaciones posibles son innumerables y de gran impacto, reduciendo horas de trabajo a muchas personas. El demo creo que fue muy claro y permite conocer de manera práctica lo que se relata en el paper. 
+La única desventaja que noté del trabajo es que consume una enorme cantidad de recursos computacionales, lo cuál en la actualidad debe ser un gran problema para la mayoría del público objetivo, ya que no todos tienen acceso a tal magnitud de recursos.
+
+Juan Pablo Enríquez Pedroza
+Me encanta el trabajo explicado en esta presentación debido a que tiene algo de relación con lo visto en clase, considero que fue un gran detalle hacer mención de la bolsa de palabras ya que es una referencia que se podría decir tenemos muy clara debido a que se trató en clase y podemos identificar los errores comunes de ese sistema que se de igual manera mencionan en el paper.
+Me agradó que se mencionaran las áreas de mejora del proyecto, y entre esas me gustaría ver incluido un dataset más grande, ya que una reducción de ~84M de tweets a solo ~25k me pareció demasiado. Reconozco que etiquetar manualmente debe ser un problema pero hay que tomar en cuenta que sería de solo una vez.
+
+Francisco Alfredo Castrellón Carrillo
+Me agradó el trabajo porque se enfoca en resolver el mismo task que mi elección, y pude ver otra forma completamente diferente de hacerlo y que logra también muy buenos resultados. Me agradó la explicación del paper y considero que una solución de encoder-decoder es lo que tiene más sentido en este tipo de tasks; de igual manera, creo que meter atención es una muy buena aportacion a la explicabilidad del proyecto.
+Me gustaría saber cuál es el tiempo de ejecución de dicho proyecto para saber si este task por medio de este approach es algo asequible para mí y mi poder computacional.
+
+David Gamaliel Arcos Bravo
+Me resulta impresionante que BERT tenga un espacio latente que le permita un entendimiento bidireccional; me parece que poder ver trabajos relacionados es útil para tener en perspectiva las aportaciones de BERT. Otra cosa que pone bien en perspectiva es la comparación con GPT, ya que es algo que está incluido en mi proyecto y resulta interesante porque aprendí cuál es la diferencia con BERT. Considero también que fue muy creativa la idea de entrenar para que el modelo aprenda relaciones entre alabras y luego entre frases.
+Es interesante la task del demo, y creo que ver el loss reducida a casi un cero es algo muy bueno, me gustaría saber cuánto tardo el entrenamiento y ver reportadas otras métricas.
+
+Franz Rivera Tellez
+La task que se ataca con este proyecto me resulta extremadamente interesante y puedo ver que tiene aplicaciones muy buenas; yo creo que Franz tuvo éxito al explicar el proceso y que el modelo es bueno al ser E2E, de esa manera se optimizan tiempos y se mejora la calidad de los resultados.
+Creo que los resultados son muy buenos y estoy de acuerdo con que se necesitan más horas de entrenamiento, me pregunto si los resultados mejorarían al usar una función de activación de la familia RELU a diferencia de la tanh que se utiliza en el decodificador de tacotron.
