@@ -26,7 +26,7 @@
 
     - [x] 10-minute demo
 
-- [ ] Comments 
+- [x] Comments 
 
 - Slides 
 
